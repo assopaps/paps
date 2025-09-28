@@ -193,7 +193,7 @@ Le fichier contient une liste d'éléments comme ceci :
 
 ### Accéder à l'article d'exemple
 Pour voir tous les types de contenu possibles sur le site, consultez l'article d'exemple :
-**[Exemple d'article complet - Développement de la psychomotricité au Sénégal](https://assopaps.github.io/paps/2024/11/22/exemple-article-complet/)**
+**[Exemple d'article complet - Développement de la psychomotricité au Sénégal](https://github.com/assopaps/paps/blob/main/_posts/2024-11-22-exemple-article-complet.md)**
 
 ### Ce que vous pouvez apprendre de cet article :
 - **Structure d'un article** : Titres, sous-titres, paragraphes
