@@ -1,7 +1,7 @@
 # Pour rajouter des images, faire attention a bien mettre le '/' devant le chemin de fichier
-- image: "/images/carousel/image_ballons.jpg"
+- image: "/images/carousel/Mbour.jpg"
   alt: "Première image"
-  title: "Titre première image"
+  title: "Mbour"
   description: "Description 1"
   format: "landscape" # or "portrait" or "square"
   aspect_ratio: false # optional, uses container with fixed ratio
