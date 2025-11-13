@@ -13,9 +13,9 @@
   format: "landscape" # or "portrait" or "square"
   aspect_ratio: false # optional, uses container with fixed ratio
 
-- image: "/images/carousel/image_1.jpg"
+- image: "/images/carousel/ctd_team.jpg"
   alt: "Troisième image"
-  title: "Titre Troisième image"
+  title: "CTD team"
   description: "Description 4"
   format: "landscape" # or "portrait" or "square"
   aspect_ratio: false # optional, uses container with fixed ratio
